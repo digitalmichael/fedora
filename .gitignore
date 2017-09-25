@@ -9,6 +9,5 @@ tmp
 *.swp
 Makefile.local
 .tmpatlas/
-
 .DS_Store
 .bundle/
