@@ -27,7 +27,7 @@ systemctl set-default graphical.target
 
 # Download and install Fedy
 cd /downloads
-curl http://folkswithhats.org/fedy-installer -o fedy-installer
+curl https://www.folkswithhats.org/installer -o fedy-installer
 chmod +x fedy-installer && ./fedy-installer
 
 # Install TLP for reduced power consumptio
